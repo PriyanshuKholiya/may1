@@ -4,3 +4,5 @@ root = Tk()
 button = ttk.Button(root, text="Click Me")
 button.pack()
 root.mainloop()
+
+#full badmoshi

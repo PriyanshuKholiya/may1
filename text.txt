@@ -1,0 +1,1 @@
+Laplace Transform and its properties, Shifting Theorems, Laplace Transform of derivatives, integrals, and periodic functions, Heaviside and Dirac Delta Functions. Inverse Laplace transforms, Solutions of differential equations using Laplace transforms. Fourier series and applications.
